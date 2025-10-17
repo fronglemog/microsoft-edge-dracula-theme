@@ -16,7 +16,7 @@
       "ntp_text": [248, 248, 242],
       "bookmark_text": [248, 248, 242],
       "tab_text": [248, 248, 242],
-      "frame_inactive": [98, 114, 164],
+      "frame_inactive": [23, 24, 30],
       "background_tab_inactive": [68, 71, 90],
       "background_tab": [40, 42, 54]
     }
